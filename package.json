@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/betaagency-os/declint-ru.git"
+    "url": "https://github.com/betaagency-os/declint-ru.git"
   },
   "keywords": [
     "declension",
