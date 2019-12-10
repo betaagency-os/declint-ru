@@ -1,6 +1,6 @@
 {
   "name": "declint-ru",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Declension of russian numerals",
   "main": "index.js",
   "scripts": {
